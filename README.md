@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1jP13bAQnMs1X-blKRJGbJG_CFtR8HwEs/view?usp=drivesdk"  />
+  <img height="150" src=""  />
 </div>
 
 ###
