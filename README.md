@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Juan Loaiza from Colombia<br><br>- 🔭 I’m working as freelance developer<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I love reading Sci-fi novels</p>
+<p align="left">I'm Juan Loaiza from Colombia<br><br>- 🔭 I’m working as fullstack developer in Yuno<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I love reading Sci-fi novels</p>
 
 ###
 
