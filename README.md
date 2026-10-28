@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/juan-david-loaiza-reyes-aaab88206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="juan400reyesloaiza@gmail.com" target="_blank">
+  <a href="mailto:juan400reyesloaiza@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/juanloaiza21/" target="_blank">
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Juan Loaiza from Colombia<br><br>- 🔭 I’m working as fullstack developer in Yuno<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I love reading Sci-fi novels</p>
+<p align="left">I'm Juan Loaiza from Colombia<br><br>- 🔭 I'm a full stack engineer working on payments, internal tooling and LLM-powered automations<br>- 🦀 I mostly write TypeScript, Go, Rust and Python<br>- 📚 I'm currently learning AWS<br>- ⚡ In my free time I love reading Sci-fi novels</p>
 
 ###
 
@@ -64,6 +64,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
